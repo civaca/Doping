@@ -10,7 +10,7 @@ body{
     top:300px;
     left: 1000px;
     display: flex;
-    flex-direction: column;
+    flex-direction: column-reverse;
     justify-content: center;
     align-content: center;
     gap: 10px;
@@ -39,10 +39,10 @@ body{
     margin: auto;
 }
 #doping{
-    background-color: rgb(239, 131, 84);
+    background-color:rgb(25, 100, 126) ;
 }
 #noDoping{
-    background-color: rgb(25, 100, 126);
+    background-color: rgb(239, 131, 84);
 }
 
 #tooltip{
